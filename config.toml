@@ -1,0 +1,4 @@
+baseURL = "https://www.thedigitalreach.co/"
+languageCode = "en-us"
+title = "Digital Reach"
+theme = "ananke"
